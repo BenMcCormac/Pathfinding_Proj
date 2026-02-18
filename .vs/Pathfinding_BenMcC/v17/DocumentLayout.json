@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{C5B8C349-4BB2-4488-BBAE-4AD42BE01642}|Pathfinding_BenMcC.vcxproj|solutionrelative:PathFinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5B8C349-4BB2-4488-BBAE-4AD42BE01642}|Pathfinding_BenMcC.vcxproj|C:\\Users\\G00416547@atu.ie\\OneDrive - Atlantic TU\\CPP_2026\\Pathfinding_BenMcC\\PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C5B8C349-4BB2-4488-BBAE-4AD42BE01642}|Pathfinding_BenMcC.vcxproj|solutionrelative:PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5B8C349-4BB2-4488-BBAE-4AD42BE01642}|Pathfinding_BenMcC.vcxproj|C:\\Users\\G00416547@atu.ie\\OneDrive - Atlantic TU\\CPP_2026\\Pathfinding_BenMcC\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C5B8C349-4BB2-4488-BBAE-4AD42BE01642}|Pathfinding_BenMcC.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8C349-4BB2-4488-BBAE-4AD42BE01642}|Pathfinding_BenMcC.vcxproj|C:\\Users\\G00416547@atu.ie\\OneDrive - Atlantic TU\\CPP_2026\\Pathfinding_BenMcC\\PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5B8C349-4BB2-4488-BBAE-4AD42BE01642}|Pathfinding_BenMcC.vcxproj|solutionrelative:PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\G00416547@atu.ie\\OneDrive - Atlantic TU\\CPP_2026\\Pathfinding_BenMcC\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PathFinder.h",
               "DocumentMoniker": "C:\\Users\\G00416547@atu.ie\\OneDrive - Atlantic TU\\CPP_2026\\Pathfinding_BenMcC\\PathFinder.h",
               "RelativeDocumentMoniker": "PathFinder.h",
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "README.txt",
               "ToolTip": "C:\\Users\\G00416547@atu.ie\\OneDrive - Atlantic TU\\CPP_2026\\Pathfinding_BenMcC\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-02-04T11:51:10.309Z",
               "EditorCaption": ""
